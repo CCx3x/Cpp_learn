@@ -10,9 +10,10 @@
  *  CMakeLists(cpp) ：   add_executable(main.cpp, "./main.cpp")
  ********************************************************************************/
 #include <iostream>
-//#include "LandOwnerV2.h"
+#include "LandOwnerV2.h"
 #include "Student.h"
-//#include "LandOwner.h"
+#include "LandOwner.h"
+
 
 using namespace std;
 
